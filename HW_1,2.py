@@ -26,4 +26,3 @@ def get_shop_list_by_dishes(dishes, person_count):
     return shop_list
 
 
-print(get_shop_list_by_dishes(['Омлет', 'Запеченный картофель'], 2))
